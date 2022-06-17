@@ -1,5 +1,6 @@
-# Dio-Desafio
-Desafio de projeto sobre o GIT/GitHub
+# DIO
 
-Este é o primeiro desafio da DIO.
-Tema GIT e GitHub
+Este será o portfólio de tudo o que será desenvolvido na DIO
+
+A Criação deste repositório é o primeiro desafio desta jornada.
+
